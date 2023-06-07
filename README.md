@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Schedule Management System](https://github.com/DavidHdezG/Schedule-Management-System-Rest-Backend)
 
-- 🌱 I’m currently learning **SpringBoot and English**
+- 🌱 I’m currently learning **SpringBoot and C#**
 
 - 📫 How to reach me **davidehdezgarcia@gmail.com**
 
