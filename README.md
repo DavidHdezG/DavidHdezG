@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
-- 🔭 I’m currently working on [Schedule Management System](https://github.com/DavidHdezG/Schedule-Management-System-Rest-Backend)
+- 🔭 I’m currently working on project "Ejuri"
 
-- 🌱 I’m currently learning **SpringBoot and C#**
+- 🌱 I’m currently learning **NestJS and Angular**
 
 - 📫 How to reach me **davidehdezgarcia@gmail.com**
 
