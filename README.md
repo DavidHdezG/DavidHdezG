@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate backend developer from México</h3>
+<h3 align="center">A passionate Full Stack Developer from México</h3>
 
 - 🔭 I’m currently working on project "Ejuri"
 
-- 🌱 I’m currently learning **NestJS and Angular**
+- 🌱 I mainly use **NestJS and VueJS**
 
 - 📫 How to reach me **davidehdezgarcia@gmail.com**
 
@@ -19,3 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidhdezg&show_icons=true&theme=dark&locale=en&layout=compact" alt="davidhdezg" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidhdezg&show_icons=true&theme=dark&locale=en" alt="davidhdezg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidhdezg&theme=dark&" alt="davidhdezg" /></p>
